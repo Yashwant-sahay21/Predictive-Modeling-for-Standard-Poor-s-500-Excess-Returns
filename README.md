@@ -1,0 +1,2 @@
+# Predictive-Modeling-for-Standard-Poor-s-500-Excess-Returns
+This project investigates the pre dictability of S&amp;P 500 daily excess returns using a wide range of market, macroeconomic, volatility, sentiment, and momentum features provided in the Hull Tactical Market Pre diction dataset.Multiple boosting-based machine learning algorithms were implemented including XGBoost, CatBoost, LightGBM, and HGB.
